@@ -1,0 +1,259 @@
+item_key,ingredient,qty_per_portion,unit
+item_001,Lechuga,0.12,kg
+item_001,Tomate fresco,0.1,kg
+item_001,Cebolla,0.04,kg
+item_001,Queso lonchas/manchego,0.03,kg
+item_001,Aceite de oliva,0.01,L
+item_001,Salsas (burger/mayo/ketchup),0.02,kg
+item_002,Lechuga,0.12,kg
+item_002,Tomate fresco,0.1,kg
+item_002,Cebolla,0.04,kg
+item_002,Atún lata escurrido,0.06,kg
+item_002,Aceite de oliva,0.01,L
+item_003,Lechuga,0.14,kg
+item_003,Pollo pechuga,0.12,kg
+item_003,Queso rallado,0.025,kg
+item_003,Salsas (burger/mayo/ketchup),0.03,kg
+item_004,Lechuga,0.14,kg
+item_004,Pollo pechuga,0.1,kg
+item_004,Queso lonchas/manchego,0.03,kg
+item_004,Salsas (burger/mayo/ketchup),0.025,kg
+item_005,Langostino crudo,0.16,kg
+item_005,Pan rallado/panko,0.03,kg
+item_005,Aceite de oliva,0.015,L
+item_006,Croqueta (unidad),6.0,unit
+item_006,Aceite de oliva,0.01,L
+item_007,Nachos (totopos),0.1,kg
+item_007,Queso rallado,0.12,kg
+item_007,Salsas (burger/mayo/ketchup),0.04,kg
+item_008,Alitas de pollo,0.22,kg
+item_008,Salsa barbacoa,0.06,kg
+item_008,Aceite de oliva,0.01,L
+item_009,Patatas crudas,0.3,kg
+item_009,Bacon,0.04,kg
+item_009,Queso rallado,0.1,kg
+item_010,Patatas crudas,0.25,kg
+item_010,Aceite de oliva,0.015,L
+item_011,Patatas crudas,0.25,kg
+item_011,Salsas (burger/mayo/ketchup),0.06,kg
+item_012,Patatas crudas,0.2,kg
+item_012,Atún lata escurrido,0.05,kg
+item_012,Huevo,1.0,unit
+item_012,Salsas (burger/mayo/ketchup),0.06,kg
+item_013,Patatas crudas,0.22,kg
+item_013,Atún lata escurrido,0.06,kg
+item_013,Huevo,1.0,unit
+item_013,Salsas (burger/mayo/ketchup),0.07,kg
+item_014,Langostino crudo,0.18,kg
+item_014,Aceite de oliva,0.02,L
+item_015,Patatas crudas,0.28,kg
+item_015,Pollo pechuga,0.1,kg
+item_015,Salsas (burger/mayo/ketchup),0.05,kg
+item_016,Pollo pechuga,0.18,kg
+item_016,Lechuga,0.05,kg
+item_016,Tomate fresco,0.06,kg
+item_016,Salsas (burger/mayo/ketchup),0.04,kg
+item_016,Patatas crudas,0.2,kg
+item_017,Pan,1.0,unit
+item_017,Carne de vacuno (burguer cruda),0.15,kg
+item_017,Queso lonchas/manchego,0.02,kg
+item_017,Lechuga,0.01,kg
+item_017,Tomate fresco,0.02,kg
+item_017,Cebolla,0.01,kg
+item_017,Salsas (burger/mayo/ketchup),0.012,kg
+item_018,Pan,1.0,unit
+item_018,Carne de vacuno (burguer cruda),0.2,kg
+item_018,Queso lonchas/manchego,0.02,kg
+item_018,Lechuga,0.01,kg
+item_018,Tomate fresco,0.02,kg
+item_018,Cebolla,0.01,kg
+item_018,Salsas (burger/mayo/ketchup),0.012,kg
+item_018,Bacon,0.02,kg
+item_018,Huevo,1.0,unit
+item_019,Pan,1.0,unit
+item_019,Carne mezcla cerdo/ternera (90g),0.09,kg
+item_019,Queso lonchas/manchego,0.015,kg
+item_019,Salsas (burger/mayo/ketchup),0.01,kg
+item_020,Pan,1.0,unit
+item_020,Carne mezcla cerdo/ternera (90g),0.09,kg
+item_020,Queso lonchas/manchego,0.015,kg
+item_020,Lechuga,0.01,kg
+item_020,Tomate fresco,0.015,kg
+item_020,Cebolla,0.01,kg
+item_020,Bacon,0.015,kg
+item_020,Salsas (burger/mayo/ketchup),0.012,kg
+item_021,Pan,1.0,unit
+item_021,Pollo pechuga,0.1,kg
+item_021,Queso lonchas/manchego,0.015,kg
+item_021,Lechuga,0.01,kg
+item_021,Tomate fresco,0.015,kg
+item_021,Cebolla,0.01,kg
+item_021,Salsas (burger/mayo/ketchup),0.012,kg
+item_022,Pan,1.0,unit
+item_022,Jamón cocido,0.06,kg
+item_022,Queso lonchas/manchego,0.04,kg
+item_023,Pan,1.0,unit
+item_023,Jamón cocido,0.07,kg
+item_023,Tomate fresco,0.08,kg
+item_023,Aceite de oliva,0.006,L
+item_024,Pan,1.0,unit
+item_024,Cerdo (lomo/solomillo),0.11,kg
+item_024,Queso lonchas/manchego,0.04,kg
+item_024,Bacon,0.03,kg
+item_024,Salsas (burger/mayo/ketchup),0.02,kg
+item_025,Pan,1.0,unit
+item_025,Cerdo (lomo/solomillo),0.12,kg
+item_025,Jamón cocido,0.05,kg
+item_025,Salsas (burger/mayo/ketchup),0.015,kg
+item_026,Pan,1.0,unit
+item_026,Jamón cocido,0.07,kg
+item_026,Tomate fresco,0.08,kg
+item_026,Aceite de oliva,0.006,L
+item_027,Pan,1.0,unit
+item_027,Atún lata escurrido,0.07,kg
+item_027,Tomate fresco,0.06,kg
+item_027,Lechuga,0.02,kg
+item_027,Salsas (burger/mayo/ketchup),0.02,kg
+item_028,Pan,1.0,unit
+item_028,Pollo pechuga,0.11,kg
+item_028,Lechuga,0.02,kg
+item_028,Tomate fresco,0.04,kg
+item_028,Salsas (burger/mayo/ketchup),0.02,kg
+item_029,Base pizza 30cm,1.0,unit
+item_029,Queso rallado,0.18,kg
+item_029,Salsa de tomate,0.08,kg
+item_030,Base pizza 30cm,1.0,unit
+item_030,Quesos varios (cheddar/azul/cabra),0.18,kg
+item_031,Base pizza 30cm,1.0,unit
+item_031,Salsa barbacoa,0.06,kg
+item_031,Cebolla,0.02,kg
+item_031,Bacon,0.03,kg
+item_031,Cerdo (lomo/solomillo),0.04,kg
+item_032,Base pizza 30cm,1.0,unit
+item_032,Pepperoni,0.06,kg
+item_033,Base pizza 30cm,1.0,unit
+item_033,Atún lata escurrido,0.06,kg
+item_034,Base pizza 30cm,1.0,unit
+item_034,Jamón cocido,0.05,kg
+item_035,Espagueti seco,0.1,kg
+item_035,Salsa de tomate,0.12,kg
+item_036,Queso rallado,0.08,kg
+item_036,Salsa de tomate,0.15,kg
+item_037,Pan,1.0,unit
+item_038,Pan,1.0,unit
+item_039,Pan,1.0,unit
+item_040,Pan,1.0,unit
+item_041,Pan,1.0,unit
+item_042,Pan,1.0,unit
+item_037,Lechuga,0.03,kg
+item_037,Tomate fresco,0.04,kg
+item_040,Jamón cocido,0.05,kg
+item_040,Queso lonchas/manchego,0.04,kg
+item_041,Pollo pechuga,0.1,kg
+item_042,Pollo pechuga,0.11,kg
+item_042,Lechuga,0.02,kg
+item_042,Tomate fresco,0.03,kg
+item_043,Pollo pechuga,0.18,kg
+item_043,Aceite de oliva,0.01,L
+item_043,Patatas crudas,0.18,kg
+item_044,Cerdo (lomo/solomillo),0.22,kg
+item_044,Aceite de oliva,0.008,L
+item_044,Patatas crudas,0.18,kg
+item_045,Cerdo (lomo/solomillo),0.2,kg
+item_045,Jamón cocido,0.06,kg
+item_045,Queso lonchas/manchego,0.05,kg
+item_045,Aceite de oliva,0.012,L
+item_045,Patatas crudas,0.18,kg
+item_046,Secreto ibérico,0.23,kg
+item_046,Aceite de oliva,0.01,L
+item_046,Patatas crudas,0.18,kg
+item_047,Cachopo/ternera empanada,0.28,kg
+item_047,Queso lonchas/manchego,0.08,kg
+item_047,Aceite de oliva,0.015,L
+item_047,Patatas crudas,0.2,kg
+item_048,Rosada (pescado) limpio,0.22,kg
+item_048,Aceite de oliva,0.01,L
+item_048,Patatas crudas,0.18,kg
+item_049,Calamar limpio,0.25,kg
+item_049,Aceite de oliva,0.02,L
+item_050,Pollo pechuga,0.1,kg
+item_050,Patatas crudas,0.15,kg
+item_051,Arroz,0.1,kg
+item_051,Tomate frito,0.12,kg
+item_051,Huevo,1.0,unit
+item_052,Espagueti seco,0.08,kg
+item_052,Salsa de tomate,0.1,kg
+item_053,Pan,1.0,unit
+item_053,Carne mezcla cerdo/ternera (90g),0.09,kg
+item_054,Pan,1.0,unit
+item_054,Salchicha,0.09,kg
+item_056,Cerveza barril,0.25,L
+item_055,Cerveza barril,0.5,L
+item_057,Cerveza barril,0.57,L
+item_058,Heineken botella,1.0,unit
+item_059,"Heineken 0,0",1.0,unit
+item_060,San Miguel botella,1.0,unit
+item_061,Budweiser botella,1.0,unit
+item_062,Mahou 5 estrellas,1.0,unit
+item_063,Alhambra 1925,1.0,unit
+item_064,Corona,1.0,unit
+item_065,"Strongbow lata 0,5 L",1.0,unit
+item_066,"Magners botella 0,5 L",1.0,unit
+item_069,"Agua 0,5 L",1.0,unit
+item_070,"Agua 1,5 L",1.0,unit
+item_071,Agua con gas,1.0,unit
+item_072,"Refrescos botella 0,5 L",1.0,unit
+item_073,"Aquarius 0,5 L",1.0,unit
+item_074,Blue Chameleon (energy drink),1.0,unit
+item_067,"Refrescos botella 0,5 L",1.0,unit
+item_068,"Refrescos botella 0,5 L",1.0,unit
+item_076,Café molido,0.008,kg
+item_076,Leche,0.15,L
+item_075,Café molido,0.012,kg
+item_075,Leche,0.2,L
+item_077,Café molido,0.012,kg
+item_077,Leche,0.22,L
+item_078,Café molido,0.008,kg
+item_079,Leche,0.25,L
+item_080,Café molido,0.008,kg
+item_080,Leche,0.05,L
+item_081,Café molido,0.012,kg
+item_081,Leche,0.1,L
+item_082,Vino (botella),0.15,L
+item_083,Vino (botella),0.15,L
+item_084,Vino (botella),0.15,L
+item_085,Vino (botella),0.25,L
+item_085,"Refresco botella 0,5 L",0.5,unit
+item_086,Vino (botella),0.75,L
+item_087,Vino (botella),0.75,L
+item_088,Vino (botella),0.75,L
+item_089,Vino (botella),0.75,L
+item_090,Vino (botella),0.75,L
+item_091,Vino (botella),0.75,L
+item_092,Vino (botella),0.2,L
+item_093,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_093,"Refrescos botella 0,5 L",0.5,unit
+item_094,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_094,"Refrescos botella 0,5 L",0.3,unit
+item_095,Tequila (botella),0.05,L
+item_095,"Refrescos botella 0,5 L",0.5,unit
+item_096,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_096,"Refrescos botella 0,5 L",0.5,unit
+item_097,"Refrescos botella 0,5 L",1.0,unit
+item_098,"Refrescos botella 0,5 L",1.0,unit
+item_099,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_099,"Refrescos botella 0,5 L",0.5,unit
+item_100,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_100,"Refrescos botella 0,5 L",0.5,unit
+item_101,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_101,"Refrescos botella 0,5 L",0.5,unit
+item_102,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_102,"Refrescos botella 0,5 L",0.5,unit
+item_103,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_103,"Refrescos botella 0,5 L",0.5,unit
+item_104,"Refrescos botella 0,5 L",1.0,unit
+item_105,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_106,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_107,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_108,Ginebra/whisky/ron/vodka (botella),0.05,L
+item_109,Tequila (botella),0.05,L

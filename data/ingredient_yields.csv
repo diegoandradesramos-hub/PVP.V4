@@ -1,0 +1,57 @@
+ingredient,unit,usable_yield,notes
+Pan,unit,1.0,Brioche/baguette/sándwich
+Carne de vacuno (burguer cruda),kg,0.7,Pérdida cocción ~30%
+Carne mezcla cerdo/ternera (90g),kg,0.72,Burger pequeña
+Pollo pechuga,kg,0.9,
+Cachopo/ternera empanada,kg,0.75,
+Cerdo (lomo/solomillo),kg,0.85,
+Secreto ibérico,kg,0.85,
+Rosada (pescado) limpio,kg,0.85,
+Calamar limpio,kg,0.8,
+Langostino crudo,kg,0.8,
+Patatas crudas,kg,0.75,Pelado + fritura
+Aceite de oliva,L,1.0,
+Tomate fresco,kg,0.9,
+Lechuga,kg,0.8,
+Cebolla,kg,0.88,
+Queso lonchas/manchego,kg,0.98,
+Queso rallado,kg,0.98,
+Quesos varios (cheddar/azul/cabra),kg,0.98,
+Salsas (burger/mayo/ketchup),kg,0.98,Incluye mayo/rosa/cesar
+Base pizza 30cm,unit,1.0,
+Salsa de tomate,kg,0.98,
+Salsa barbacoa,kg,0.98,
+Pepperoni,kg,0.95,
+Atún lata escurrido,kg,0.95,
+Jamón cocido,kg,0.98,
+Huevo,unit,1.0,
+Bacon,kg,0.85,
+Cerveza barril,L,0.95,Espuma/merma de servicio
+Heineken botella,unit,1.0,0.33-0.5L
+"Heineken 0,0",unit,1.0,
+San Miguel botella,unit,1.0,
+Budweiser botella,unit,1.0,
+Mahou 5 estrellas,unit,1.0,
+Alhambra 1925,unit,1.0,
+Corona,unit,1.0,
+"Strongbow lata 0,5 L",unit,1.0,
+"Magners botella 0,5 L",unit,1.0,
+"Refresco botella 0,5 L",unit,1.0,Cola/naranja/limón/tónica
+"Aquarius 0,5 L",unit,1.0,
+Blue Chameleon (energy drink),unit,1.0,
+"Agua 0,5 L",unit,1.0,
+"Agua 1,5 L",unit,1.0,
+Agua con gas,unit,1.0,
+Café molido,kg,1.0,
+Leche,L,1.0,
+Vino (botella),L,0.98,Para copas/botellas
+Ginebra/whisky/ron/vodka (botella),L,0.97,Genérico destilados
+Tequila (botella),L,0.97,
+Nachos (totopos),kg,0.98,
+Croqueta (unidad),unit,1.0,
+Alitas de pollo,kg,0.88,
+Pan rallado/panko,kg,0.98,
+Arroz,kg,0.98,
+Tomate frito,kg,0.98,
+Espagueti seco,kg,0.98,
+Salchicha,kg,0.98,
