@@ -170,5 +170,6 @@ else:
     mcols = ["Coste ingr.","Overhead","Coste total","Precio sin IVA","PVP"]
     show = pr.copy()
     for c in mcols:
-       show[c] = show[c].map(lambda x: f"{x:.2f}{currency}" if pd.notna(x) else "")
-    st.dataframe(show.sort_values([\"Sección\",\"Producto\"]), use_container_width=True)
+      show[c] = show[c].map(lambda x: f"{x:.2f}{currency}" if pd.notna(x) else "")
+st.dataframe(show.sort_values(["Sección", "Producto"]), use_container_width=True)
+
