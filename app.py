@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -61,8 +60,7 @@ if uploaded:
         supplier=""; date=""; invoice_no=""; iva_rate=0.10
         if f.name.lower().endswith(".pdf") and PDF_OK:
             try:
-                import io as _io
-                with pdfplumber.open(_io.BytesIO(f.read())) as pdf:
+                with pdfplumber.open(io.BytesIO(f.read())) as pdf:
                     text = "\n".join(page.extract_text() or "" for page in pdf.pages)
                 if "21%" in text: iva_rate=0.21
                 elif "10%" in text: iva_rate=0.10
@@ -164,12 +162,12 @@ def pricing_table(recipes, lines, helper, cat_margins, overhead):
     return pd.DataFrame(rows)
 
 pr = pricing_table(recipes, recipe_lines, helper, st.session_state["category_margins"], overhead)
+
 if helper.empty:
     st.info("Sube compras para ver PVP con costes reales.")
 else:
-    mcols = ["Coste ingr.","Overhead","Coste total","Precio sin IVA","PVP"]
+    mcols = ["Coste ingr.", "Overhead", "Coste total", "Precio sin IVA", "PVP"]
     show = pr.copy()
     for c in mcols:
-      show[c] = show[c].map(lambda x: f"{x:.2f}{currency}" if pd.notna(x) else "")
-st.dataframe(show.sort_values(["Sección", "Producto"]), use_container_width=True)
-
+        show[c] = show[c].map(lambda x: f"{x:.2f}{currency}" if pd.notna(x) else "")
+    st.dataframe(show.sort_values(["Sección", "Producto"]), use_container_width=True)
